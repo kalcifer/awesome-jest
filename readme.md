@@ -10,7 +10,7 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 - [Egghead.io tutorial playlist](https://egghead.io/playlists/testing-javascript-with-jest-a36c4074)
 
 ## Blog posts
-- [Jest In Practive](http://marmelab.com/blog/2015/06/24/jest-in-practice.html) 
+- [Jest In Practice](http://marmelab.com/blog/2015/06/24/jest-in-practice.html) 
 - Using jest for [react-admin](https://github.com/marmelab/react-admin)
 - Writing tests in [redux] (http://redux.js.org/docs/recipes/WritingTests.html) 
 - [Testing React components with Jest](https://www.sitepoint.com/test-react-components-jest)
