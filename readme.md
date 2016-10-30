@@ -19,8 +19,10 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 - [Jest with Enzyme](https://www.codementor.io/react/tutorial/unit-testing-react-components-jest-or-enzyme)
 - [React and MobX with Jest](https://semaphoreci.com/community/tutorials/how-to-test-react-and-mobx-with-jest)
 
-## Philosophy
+## Snapshot testing
 - [Why snapshot testing?](https://facebook.github.io/jest/blog/2016/07/27/jest-14.html)
+- [Snapshot testing: First Impressions](http://benmccormick.org/2016/09/19/testing-with-jest-snapshots-first-impressions/)
+
 ## Related parts
  
 - [jest-fetch-mock](https://www.npmjs.com/package/jest-fetch-mock)
